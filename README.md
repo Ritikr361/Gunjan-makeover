@@ -219,7 +219,7 @@
             <div class="container mx-auto px-6">
                 <div class="grid md:grid-cols-2 gap-12 items-center">
                     <div data-aos="fade-right">
-                        <img src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752953055/kfcb2kfwnxfjtn66vqz1.jpg" alt="Gunjan, the makeup artist" class="rounded-lg shadow-2xl w-full h-auto object-cover aspect-square" onerror="this.onerror=null;this.src='https://placehold.co/600x600/0a0a0a/e0e0e0?text=Artist+Image';">
+                        <img src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753044306/pgnpez06d3f50znhffak.jpg" alt="Gunjan, the makeup artist" class="rounded-lg shadow-2xl w-full h-auto object-cover aspect-square" onerror="this.onerror=null;this.src='https://placehold.co/600x600/0a0a0a/e0e0e0?text=Artist+Image';">
                     </div>
                     <div data-aos="fade-left">
                         <h2 class="section-title mb-6"><span class="gold-text">About</span> the Artist</h2>
